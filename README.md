@@ -1,2 +1,2 @@
 # CarManagementSystem
-A console-based car management system built in C++.
+A console-based car management system built in C++. This application allows users to add, delete, list, search, update, and sort car information, including details such as car ID, model, owner name, surname, phone number, and registration dates. The program provides an interactive menu for user-friendly navigation and supports various sorting and searching functionalities to manage a car directory efficiently.
