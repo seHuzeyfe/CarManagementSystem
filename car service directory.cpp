@@ -1,6 +1,3 @@
-
-//Huzeyfe B��ak��-20164684
-
 #include <iostream>
 #include <cstdlib>
 #include<string.h>
